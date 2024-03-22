@@ -6,8 +6,8 @@
 ############################
 # Data and preliminaries processing
 rm(list=ls())
-  Filepath_data="/home/lorenzo/Dropbox/Testdataset/alternative/Sim3/Datasets/gData_3-10-7_rep10"#File path of csv containing dataframe with y, all x, all w 
-  File_predictiveDS=NULL#"/home/lorenzo/Dropbox/Testdataset/alternative/Sim3/Datasets/gData_3-10-7Outsample"#File path of csv containing dataframe with  all predictive  x_tilda,   w_tilda 
+  Filepath_data=                 #File path of csv containing dataframe with y, all x, all w 
+  File_predictiveDS=          #File path of csv containing dataframe with  all predictive  x_tilda,   w_tilda 
  
   #^ #NOTE very importand the colomns containing the clustering variables must be nammed as 
   # d1 d2 d3 ...etc.  In the same wat the cols containing the the prognostic variable with
